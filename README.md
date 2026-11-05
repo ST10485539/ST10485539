@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Please open the Zip to get the code, the code was to big. 
+
 <!--
 **ST10485539/ST10485539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
